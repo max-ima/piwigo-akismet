@@ -22,5 +22,5 @@ $lang['Test your configuration'] = 'Testirajte svojo konfiguracijo';
 $lang['You need to define the Akismet api key'] = 'Definirati morate Akismet API ključ';
 
 //akismet.class.php
-$lang['AKISMET_INVALID_KEY'] = 'Vaš API Akismet ključ ni veljaven.';
+$lang['Your Akismet API key is not valid.'] = 'Vaš API Akismet ključ ni veljaven.';
 ?>
